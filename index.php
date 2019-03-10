@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "my name is prasanna";
+echo "my name is kumar";
 ?>
 
 </body>
